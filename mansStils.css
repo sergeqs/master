@@ -1,14 +1,12 @@
 body{
-    background-color:antiquewhite
+    background-image: url(images/Snezhnaya1684.jpg);
+    background-size: 100%;
+    background-color: antiquewhite
 }
 h2{
     color: red
 }
 p{
-    color: indigo;
+    color: white;
     font-size: 120%
-}
-title{
-    color: midnightblue;
-    font-size: 140%
 }
